@@ -69,4 +69,4 @@ json-playground/
 
 Below is a screenshot of the working Laravel app showing weather data loaded from a static JSON file:
 
-![Screenshot of a web page displaying a weekly weather forecast table. The table lists days Monday through Friday, with columns for high and low temperatures and weather conditions. Wednesday's row is highlighted in blue, showing high 68°F, low 55°F, and condition Rain. Other conditions include Sunny, Partly Cloudy, and Cloudy. The page header reads Weekly Weather Forecast in large bold text. The environment is a browser window with the URL localhost/json-playground/public/weather visible. The overall tone is neutral and informative.]
+![Weather App Screenshot](Screenshot.png)
