@@ -1,7 +1,14 @@
 
 # 🌦️ Laravel Weather App - JSON API Data
 
-A Laravel-based weather application that displays weekly weather forecasts by reading data from a static JSON file. This project demonstrates how to work with JSON data, Laravel controllers, Blade templates, and error handling.
+A Laravel-based weather application that displays weekly weather forecasts by reading data from a static JSON file. This project **simulates a basic API response** by working with static JSON data that **mimics** real weather API responses.
+
+## 📚 Learning Objectives
+
+- 🔗 **API Simulation** - Work with JSON data as if from a real weather API
+- 🧩 **JSON Decoding** - Use `json_decode()` to convert JSON into PHP arrays
+- 🔄 **Data Processing** - Loop through structured data in Blade templates
+- 🏗️ **Laravel Organization** - Practice clean MVC file structure
 
 ## ✨ Features
 
